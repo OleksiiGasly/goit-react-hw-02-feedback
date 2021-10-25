@@ -1,0 +1,15 @@
+button {
+  border-style: none;
+  font-weight: 600;
+  margin-left: 20px;
+  width: 100px;
+  height: 40px;
+  color: white;
+  background-color: navy;
+  border-radius: 4px;
+}
+
+button:hover,
+button:focus {
+  transform: scale(1.1);
+}
